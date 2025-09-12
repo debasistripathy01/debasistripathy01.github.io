@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9e2494bd.css",
-    "main.js": "/static/js/main.afac1c7e.js",
+    "main.js": "/static/js/main.af651f6c.js",
     "static/media/cover.jpg": "/static/media/cover.b1b4e354ed13950b3b0d.jpg",
     "static/media/hero-dark.jpg": "/static/media/hero-dark.37f2556d620821979e99.jpg",
     "static/media/Debasis-Tripathy-Resume.pdf": "/static/media/Debasis-Tripathy-Resume.cae56a213827e9a1f8c1.pdf",
@@ -11,10 +11,10 @@
     "static/media/logo2.svg": "/static/media/logo2.3b14b81b391f89a46a69c3e004601596.svg",
     "index.html": "/index.html",
     "main.9e2494bd.css.map": "/static/css/main.9e2494bd.css.map",
-    "main.afac1c7e.js.map": "/static/js/main.afac1c7e.js.map"
+    "main.af651f6c.js.map": "/static/js/main.af651f6c.js.map"
   },
   "entrypoints": [
     "static/css/main.9e2494bd.css",
-    "static/js/main.afac1c7e.js"
+    "static/js/main.af651f6c.js"
   ]
 }
