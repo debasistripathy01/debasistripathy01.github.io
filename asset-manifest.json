@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a49e45d4.css",
-    "main.js": "/static/js/main.b1aef64e.js",
+    "main.css": "/static/css/main.5f19186b.css",
+    "main.js": "/static/js/main.218a8e11.js",
     "static/media/cover.jpg": "/static/media/cover.b1b4e354ed13950b3b0d.jpg",
     "static/media/hero-dark.jpg": "/static/media/hero-dark.37f2556d620821979e99.jpg",
     "static/media/Debasis-Tripathy-Resume.pdf": "/static/media/Debasis-Tripathy-Resume.d6b7e3aedee8197e5653.pdf",
@@ -10,11 +10,11 @@
     "static/media/logo.svg": "/static/media/logo.6f885993b563a22914a061183d932f6c.svg",
     "static/media/logo2.svg": "/static/media/logo2.3b14b81b391f89a46a69c3e004601596.svg",
     "index.html": "/index.html",
-    "main.a49e45d4.css.map": "/static/css/main.a49e45d4.css.map",
-    "main.b1aef64e.js.map": "/static/js/main.b1aef64e.js.map"
+    "main.5f19186b.css.map": "/static/css/main.5f19186b.css.map",
+    "main.218a8e11.js.map": "/static/js/main.218a8e11.js.map"
   },
   "entrypoints": [
-    "static/css/main.a49e45d4.css",
-    "static/js/main.b1aef64e.js"
+    "static/css/main.5f19186b.css",
+    "static/js/main.218a8e11.js"
   ]
 }
