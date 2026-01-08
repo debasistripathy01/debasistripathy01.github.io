@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.5f19186b.css",
-    "main.js": "/static/js/main.218a8e11.js",
+    "main.js": "/static/js/main.0e928ef9.js",
     "static/media/cover.jpg": "/static/media/cover.b1b4e354ed13950b3b0d.jpg",
     "static/media/hero-dark.jpg": "/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/Debasis-Tripathy-Resume.pdf": "/static/media/Debasis-Tripathy-Resume.d6b7e3aedee8197e5653.pdf",
+    "static/media/Debasis-Tripathy-Resume.pdf": "/static/media/Debasis-Tripathy-Resume.b081b6d10ebae4d6a3b5.pdf",
     "service-worker.js": "/service-worker.js",
     "static/media/GH.svg": "/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
     "static/media/logo.svg": "/static/media/logo.6f885993b563a22914a061183d932f6c.svg",
     "static/media/logo2.svg": "/static/media/logo2.3b14b81b391f89a46a69c3e004601596.svg",
     "index.html": "/index.html",
     "main.5f19186b.css.map": "/static/css/main.5f19186b.css.map",
-    "main.218a8e11.js.map": "/static/js/main.218a8e11.js.map"
+    "main.0e928ef9.js.map": "/static/js/main.0e928ef9.js.map"
   },
   "entrypoints": [
     "static/css/main.5f19186b.css",
-    "static/js/main.218a8e11.js"
+    "static/js/main.0e928ef9.js"
   ]
 }
